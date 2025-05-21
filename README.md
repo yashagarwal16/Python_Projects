@@ -1,49 +1,59 @@
-# 🎲 Fun Dice Roller  
+# 🚀 My Python Mini Projects Collection
 
-Welcome to ***Fun Dice Roller***, a simple yet exciting Python program that lets you roll a pair of dice—just like in a real board game! 🎲
+Welcome to my collection of beginner-friendly Python mini projects!  
+This repo showcases simple, fun programs to help practice programming and learn new skills.
 
-## What’s This About?  
+---
 
-Ever wanted to roll some dice without actually having them? This program simulates rolling two six-sided dice. Just type **'y'** to roll and **'n'** to quit—easy, right?  
+## Projects List
 
-##  How to Get Started  
-No complicated setup, just follow these steps:  
+### 🎲 Fun Dice Roller  
+Roll virtual dice with this easy-to-use Python script!  
+- Simulates rolling two six-sided dice  
+- Interactive terminal input (roll or quit)  
+- Great for quick fun or game prototyping
 
-1. **Make sure Python is installed** (Python 3 is recommended).  
-2. **Download or copy the script** and save it as `dice_roller.py`.  
-3. **Run it in your terminal** by typing:  
+[Explore Fun Dice Roller →](./dice-roller)
 
-   ```bash
-   python dice_roller.py
-   ```
+---
 
-4. **Have fun rolling!** 🎲
+### 🧮 Maths Quiz Game (Tkinter)  
+A colorful GUI quiz to test your basic math skills.  
+- Random arithmetic questions (+, −, ×, ÷)  
+- Tracks your score over 10 questions  
+- Restart anytime
 
-## 🎮 How It Works  
-- You’ll be asked: **"Roll the dice? (y/n): "**  
-- If you type **'y'**, two dice will roll, and you’ll get random numbers between 1 and 6.  
-- If you type **'n'**, the game will say **"Thanks for playing!"** and exit.  
-- Any other input? The program will gently remind you to enter a valid choice.  
+[Explore Maths Quiz Game →](./maths-quiz)
 
-## 📸 What It Looks Like  
-```
-Roll the dice? (y/n): y
-(4, 2)
+---
 
-Roll the dice? (y/n): y
-(6, 5)
+<!--
+### 📚 Project Name  
+Short description here.  
+[Explore Project Name →](./project-folder)
+-->
 
-Roll the dice? (y/n): n
-Thanks for playing!
-```
+---
 
-## Why You’ll Love It  
-✅ Super simple to use  
-✅ Randomized dice rolls for fair play 🎲  
-✅ No setup required—just run and roll!  
+## How to Run
 
-## What’s Next?  
-Thinking of leveling up this project? Here are some cool ideas:  
-🔹 Add different dice types (D4, D8, D20, etc.)  
-🔹 Create a graphical version with animations 🎨  
-🔹 Keep a history of previous rolls  
+Each project has its own folder with a README including detailed instructions.  
+Make sure Python 3 is installed on your system to run the programs.
+
+---
+
+## Want to Contribute?
+
+Feel free to fork this repo and add your own mini projects!  
+Please follow the existing format — add your project in a new folder with a README.
+
+---
+
+## About Me
+
+Created by **Yash Agarwal**, a beginner Python programmer passionate about learning and sharing.
+
+---
+
+Thanks for stopping by!  
+Keep coding and keep growing! 🚀
