@@ -21,7 +21,7 @@ Roll virtual dice with this easy-to-use Python script!
 A colorful GUI quiz to test your basic math skills.  
 - Random arithmetic questions (+, −, ×, ÷)  
 - Tracks your score over 10 questions  
-- Restart anytime
+- Restart anytime.
 
 [Explore Maths Quiz Game →](./maths-quiz)
 
