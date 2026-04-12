@@ -32,7 +32,7 @@ answerEntry.pack(pady=10)
 buttonFrame = Frame(root, bg="#F0F8FF")
 buttonFrame.pack(pady=10)
 
-submitButton = Button(buttonFrame, text="✅ Submit", font=('Helvetica', 14), bg="#58D68D", fg="white", command=lambda: checkAnswer())
+submitButton = Button(buttonFrame, text="✅ Submitted", font=('Helvetica', 14), bg="#58D68D", fg="white", command=lambda: checkAnswer())
 submitButton.grid(row=0, column=0, padx=10)
 
 restartButton = Button(buttonFrame, text="🔄 Restart", font=('Helvetica', 14), bg="#5DADE2", fg="white", command=lambda: restartQuiz())
